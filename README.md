@@ -5,6 +5,6 @@ This is the code for the paper: Neighbour-Enhanced-youtubeDNN: Tackling the Insu
 
 Dataset：MovieLens 1M
 Download：https://grouplens.org/datasets/movielens/
-Attribute：//
+Attribute：
     User：age\gender\occupation\zipcode\userid
     Movie: category\movieid\rating
