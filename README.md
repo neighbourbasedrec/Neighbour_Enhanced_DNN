@@ -12,5 +12,10 @@ numpy
 sklearn
 
 ## Dataset
-Dataset：MovieLens 1M Download：https://grouplens.org/datasets/movielens/ 
-Attribute： User：age\gender\occupation\zipcode\userid Movie: category\movieid\rating
+Dataset：MovieLens 1M 
+
+Download：https://grouplens.org/datasets/movielens/ 
+
+Attribute： User：age\gender\occupation\zipcode\userid 
+
+Movie: category\movieid\rating
