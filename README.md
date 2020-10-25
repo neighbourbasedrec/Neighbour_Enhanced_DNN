@@ -1,5 +1,6 @@
 # Neighbour_Enhanced_DNN
-This is the code implementation of Neighbour_Enhanced_DNN. We demonstrate the algorithm on the dataset MovieLens 1M.
+This is the code implementation of Neighbour-Enhanced-youtubeDNN: Tackling the Insufficient Representations of Users and Items in Recommendation Systems.
+We demonstrate the algorithm on the dataset MovieLens 1M.
 
 Enviroments
 tensorflow==1.15
